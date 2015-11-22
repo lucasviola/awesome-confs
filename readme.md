@@ -143,6 +143,7 @@ really know what they are doing :)
 - [LoneStarRuby 2015 - Code Club](https://www.youtube.com/watch?v=sLAvSgcrgZM) By Saron Yitbarek
 - [My Dog Taught Me to Code](https://www.youtube.com/watch?v=yCBUsd52a3s) By Dave Thomas
 - [Simplicity Aint Easy](https://www.youtube.com/watch?v=cidchWg74Y4) By Stuart Halloway
+- [JavaScript Masterclass](https://www.youtube.com/watch?v=v0TFmdO4ZP0) By Angelina Fabbro
 
 ### Diversity
 
